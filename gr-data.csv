@@ -198,7 +198,7 @@ https://github.com/heinrichmarkus/delphi-build-plugin,39170f16e0ef0b8d5409c034b0
 https://github.com/heinrichmarkus/delphi-build-plugin,39170f16e0ef0b8d5409c034b0278952f8adc351,.,de.heinrichmarkus.gradle.delphi.utils.zip.ZipAdapterTest.toMappingSimpleDirToSubdir,ID,Opened,https://github.com/heinrichmarkus/delphi-build-plugin/pull/4,
 https://github.com/henne90gen/ChestCounter,3afe945d14de61983f24022d22a6e1ff06e34348,.,de.henne90gen.chestcounter.FileChestDBTest.testLoadConfigWithMissingValues,ID,Opened,https://github.com/henne90gen/ChestCounter/pull/20,
 https://github.com/hmcts/cmc-claim-store,af3d8eb1ae48cea7df8ee18aebccaf3237d3c204,email-client,uk.gov.hmcts.cmc.email.sendgrid.SendGridClientTest.testEmptyContent,ID,,,project only compiles in Linux VM
-https://github.com/JakduK/jakduk-api,d1f7afeedd5b17170b3828689e47bbaef1ad1244,.,com.jakduk.api.GalleryOnListTest.자바배열객체를_JSON문자열로변환,ID,Opened,https://github.com/JakduK/jakduk-api,
+https://github.com/JakduK/jakduk-api,d1f7afeedd5b17170b3828689e47bbaef1ad1244,.,com.jakduk.api.GalleryOnListTest.자바배열객체를_JSON문자열로변환,ID,Opened,https://github.com/JakduK/jakduk-api/pull/378,
 https://github.com/java9-modularity/gradle-modules-plugin,5fadfd63de67fa1344b00d37ffa34ca1012e58a6,.,"org.javamodularity.moduleplugin.ModulePluginSmokeTest.""smokeTest(String, GradleVersion)[10]""",ID-HtF,,,
 https://github.com/java9-modularity/gradle-modules-plugin,5fadfd63de67fa1344b00d37ffa34ca1012e58a6,.,"org.javamodularity.moduleplugin.ModulePluginSmokeTest.""smokeTest(String, GradleVersion)[11]""",ID-HtF,,,
 https://github.com/java9-modularity/gradle-modules-plugin,5fadfd63de67fa1344b00d37ffa34ca1012e58a6,.,"org.javamodularity.moduleplugin.ModulePluginSmokeTest.""smokeTest(String, GradleVersion)[12]""",ID-HtF,,,
